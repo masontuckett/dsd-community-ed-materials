@@ -8,4 +8,4 @@ sudo useradd -m "$newuser"
 echo -e "\nCreated user '$newuser'" 
 
 echo -e "\ncat /etc/passwd"
-cat /etc/passwd | grep "$user"
+cat /etc/passwd | grep "$newuser"
