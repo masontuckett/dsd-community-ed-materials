@@ -1,6 +1,6 @@
 # dsd-community-ed-materials
 
-Independently developed courses for [Davis School District's Community Education program](https://daviscomed.davis.k12.ut.us/)—designed for both adult and minor learners!
+Independently developed courses for [Davis School District's Community Education program](https://daviscomed.davis.k12.ut.us/)—designed for both adult and youth learners!
 
 ## COURSES
 - Intro to Cybersecurity
