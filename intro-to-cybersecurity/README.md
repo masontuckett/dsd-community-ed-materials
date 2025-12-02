@@ -23,7 +23,7 @@
 
 ## Notes
 
-This course is comprehensive—though instruction will strictly follow the [instructional schedule](intro-to-cybersecurity/instructional-schedule.xlsx). 
+This course is comprehensive—though instruction will strictly follow the [instructional schedule](instructional-schedule.xlsx). 
 
 Content is broad—intentionally designed to provide an overview of practical cybersecurity. 
 
@@ -48,3 +48,4 @@ It is not maximalist in the sense that I will not overburden students, and "*com
 Copyright ©2025 Mason Tuckett All Rights Reserved
 
 [masontuckett.xyz](https://masontuckett.xyz) | mason@tuckett.xyz
+
